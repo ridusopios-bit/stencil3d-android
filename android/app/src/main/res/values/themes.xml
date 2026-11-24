@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Stencil3D" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">#169C5D</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:windowBackground">#1B1E26</item>
+        <item name="android:statusBarColor">#14171E</item>
+        <item name="android:navigationBarColor">#14171E</item>
+    </style>
+</resources>
